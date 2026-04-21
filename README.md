@@ -1,9 +1,12 @@
 # 🏥 CalmQueue – AI-Powered Hospital Waiting Experience
 
 ## 📌 Project Information
-**Name:** Jashith Hemendra Rathod 
-**Course Code:** IDAI-1000422 
-**Project Title:** CalmQueue – Smart Hospital Waiting Experience  
+**Name:** Jashith Hemendra Rathod                                                               
+
+**Course Code:** IDAI-1000422                                                                    
+
+**Project Title:** CalmQueue – Smart Hospital Waiting Experience
+
 **Scenario:** Build a digital solution to improve hospital waiting experiences by reducing stress, increasing transparency, and enhancing accessibility.
 
 ---
