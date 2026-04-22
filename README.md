@@ -169,7 +169,7 @@ The app prototype was designed in **Figma** with:
 - Smooth animations & transitions  
 - Interactive elements  
 
-🔗 *https://www.figma.com/make/EfcHMnWZlmqV6AQHoAFsMd/Futuristic-Healthcare-App-UI?t=elsydwsJvKznAmd3-1*
+🔗 *https://www.figma.com/make/EfcHMnWZlmqV6AQHoAFsMd/Futuristic-Healthcare-App-UI?t=kKHiTHpBbKMBJi4X-20&fullscreen=1*
 
 ---
 
